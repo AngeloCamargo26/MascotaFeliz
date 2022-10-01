@@ -1,0 +1,48 @@
+﻿@page "{id:int?}"
+@model PracticaVeterinaria.App.Presentacion.Pages.EditModel
+@{
+}
+<h1>Editar Propietario</h1>
+<div class="row">
+    <div class="col-md-4">
+        <form method="post">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <input type="hidden" asp-for="PropietarioActual.id" class="form-control" />
+            </div>
+            <div class="form-group">
+                <label asp-for="PropietarioActual.nombres" class="control-label"></label>
+                <input asp-for="PropietarioActual.nombres" class="form-control" />
+                <span asp-validation-for="PropietarioActual.nombres" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="PropietarioActual.apellidos" class="control-label"></label>
+                <input asp-for="PropietarioActual.apellidos" class="form-control" />
+                <span asp-validation-for="PropietarioActual.apellidos" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="PropietarioActual.cedula" class="control-label"></label>
+                <input asp-for="PropietarioActual.cedula" class="form-control" />
+                <span asp-validation-for="PropietarioActual.cedula" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="PropietarioActual.direccion" class="control-label"></label>
+                <input asp-for="PropietarioActual.direccion" class="form-control" />
+                <span asp-validation-for="PropietarioActual.direccion" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="PropietarioActual.correoElectronico" class="control-label"></label>
+                <input asp-for="PropietarioActual.correoElectronico" class="form-control" />
+                <span asp-validation-for="PropietarioActual.correoElectronico" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="PropietarioActual.telefono" class="control-label"></label>
+                <input asp-for="PropietarioActual.telefono" class="form-control" />
+                <span asp-validation-for="PropietarioActual.telefono" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Actualizar" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>

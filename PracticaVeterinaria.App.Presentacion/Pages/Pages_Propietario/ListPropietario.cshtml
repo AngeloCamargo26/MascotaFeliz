@@ -1,0 +1,47 @@
+﻿@page
+@model PracticaVeterinaria.App.Presentacion.Pages.ListModel
+@{
+}
+<h1>Lista de Propietarios!</h1>
+<table class="table">
+    <thead>
+        <tr>
+            <th scope="col">Id</th>
+            <th scope="col">Cedula</th>
+            <th scope="col">Direccion</th>
+            <th scope="col">Correo</th>
+            <th scope="col">Nombre</th>
+            <th scope="col">Apellido</th>
+            <th scope="col">Telefono</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var Propietario in Model.propietarios)
+        {
+            <tr scope="row">
+                <td>@Propietario.id</td>
+                <td>@Propietario.cedula</td>
+                <td>@Propietario.direccion</td>
+                <td>@Propietario.correoElectronico</td>
+                <td>@Propietario.nombres</td>
+                <td>@Propietario.apellidos</td>
+                <td>@Propietario.telefono</td>
+                <td>
+                    <a asp-page="./EditPropietario" asp-route-id="@Propietario.id">Editar</a> |
+                    <a asp-page="./DeletePropietario" asp-route-id="@Propietario.id">Delete</a> |
+                    
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+<div class="row">
+    <div class="col-md-4">
+        <form method="get" action="./AddPropietario">
+            <div class="form-group">
+                <input type="submit" value="Crear" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>

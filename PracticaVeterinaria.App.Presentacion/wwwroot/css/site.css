@@ -5,6 +5,7 @@ a.navbar-brand {
   white-space: normal;
   text-align: center;
   word-break: break-all;
+  color: brown;
 }
 
 /* Provide sufficient contrast against white background */
@@ -57,7 +58,10 @@ html {
   position: relative;
   min-height: 100%;
 }
-
+button:hover{ /* estilo para cambio el color de fondo cuando el mause pasa por los botones */
+  background-color: #448484;
+  margin-bottom: 500px;
+}
 body {
   /* Margin bottom by footer height */
   margin-bottom: 60px;

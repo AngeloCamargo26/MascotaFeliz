@@ -1,0 +1,35 @@
+﻿@page
+@model PracticaVeterinaria.App.Presentacion.Pages.AddVeterinario
+@{
+}
+<h1>Crear Propietario</h1>
+<div class="row">
+    <div class="col-md-4">
+        <form method="post">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="NuevoVeterinario.tarjetaProfesional" class="control-label"></label>
+                <input asp-for="NuevoVeterinario.tarjetaProfesional" class="form-control" />
+                <span asp-validation-for="NuevoVeterinario.tarjetaProfesional" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="NuevoVeterinario.nombres" class="control-label"></label>
+                <input asp-for="NuevoVeterinario.nombres" class="form-control" />
+                <span asp-validation-for="NuevoVeterinario.nombres" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="NuevoVeterinario.apellidos" class="control-label"></label>
+                <input asp-for="NuevoVeterinario.apellidos" class="form-control" />
+                <span asp-validation-for="NuevoVeterinario.apellidos" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="NuevoVeterinario.telefono" class="control-label"></label>
+                <input asp-for="NuevoVeterinario.telefono" class="form-control" />
+                <span asp-validation-for="NuevoVeterinario.telefono" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Crear" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>

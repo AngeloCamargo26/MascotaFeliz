@@ -1,0 +1,104 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = PracticaVeterinaria.App.Presentacion
+build_property.RootNamespace = PracticaVeterinaria.App.Presentacion
+build_property.ProjectDir = D:\MascotasFelices\MascotaFeliz\PracticaVeterinaria.App.Presentacion\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = D:\MascotasFelices\MascotaFeliz\PracticaVeterinaria.App.Presentacion
+build_property._RazorSourceGeneratorDebug = 
+
+[D:/MascotasFelices/MascotaFeliz/PracticaVeterinaria.App.Presentacion/Pages/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/MascotasFelices/MascotaFeliz/PracticaVeterinaria.App.Presentacion/Pages/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/MascotasFelices/MascotaFeliz/PracticaVeterinaria.App.Presentacion/Pages/Pages_Mascota/AddMascota.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUGFnZXNfTWFzY290YVxBZGRNYXNjb3RhLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/MascotasFelices/MascotaFeliz/PracticaVeterinaria.App.Presentacion/Pages/Pages_Mascota/DeleteMascota.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUGFnZXNfTWFzY290YVxEZWxldGVNYXNjb3RhLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/MascotasFelices/MascotaFeliz/PracticaVeterinaria.App.Presentacion/Pages/Pages_Mascota/DetailsMascota.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUGFnZXNfTWFzY290YVxEZXRhaWxzTWFzY290YS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/MascotasFelices/MascotaFeliz/PracticaVeterinaria.App.Presentacion/Pages/Pages_Mascota/EditMascota.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUGFnZXNfTWFzY290YVxFZGl0TWFzY290YS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/MascotasFelices/MascotaFeliz/PracticaVeterinaria.App.Presentacion/Pages/Pages_Mascota/ListMascota.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUGFnZXNfTWFzY290YVxMaXN0TWFzY290YS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/MascotasFelices/MascotaFeliz/PracticaVeterinaria.App.Presentacion/Pages/Pages_Propietario/AddPropietario.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUGFnZXNfUHJvcGlldGFyaW9cQWRkUHJvcGlldGFyaW8uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/MascotasFelices/MascotaFeliz/PracticaVeterinaria.App.Presentacion/Pages/Pages_Propietario/DeletePropietario.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUGFnZXNfUHJvcGlldGFyaW9cRGVsZXRlUHJvcGlldGFyaW8uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/MascotasFelices/MascotaFeliz/PracticaVeterinaria.App.Presentacion/Pages/Pages_Propietario/DetailsPropietario.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUGFnZXNfUHJvcGlldGFyaW9cRGV0YWlsc1Byb3BpZXRhcmlvLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/MascotasFelices/MascotaFeliz/PracticaVeterinaria.App.Presentacion/Pages/Pages_Propietario/EditPropietario.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUGFnZXNfUHJvcGlldGFyaW9cRWRpdFByb3BpZXRhcmlvLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/MascotasFelices/MascotaFeliz/PracticaVeterinaria.App.Presentacion/Pages/Pages_Propietario/ListPropietario.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUGFnZXNfUHJvcGlldGFyaW9cTGlzdFByb3BpZXRhcmlvLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/MascotasFelices/MascotaFeliz/PracticaVeterinaria.App.Presentacion/Pages/Pages_Veterinario/AddVeterinario.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUGFnZXNfVmV0ZXJpbmFyaW9cQWRkVmV0ZXJpbmFyaW8uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/MascotasFelices/MascotaFeliz/PracticaVeterinaria.App.Presentacion/Pages/Pages_Veterinario/DeleteVeterinario.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUGFnZXNfVmV0ZXJpbmFyaW9cRGVsZXRlVmV0ZXJpbmFyaW8uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/MascotasFelices/MascotaFeliz/PracticaVeterinaria.App.Presentacion/Pages/Pages_Veterinario/DetailsVeterinario.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUGFnZXNfVmV0ZXJpbmFyaW9cRGV0YWlsc1ZldGVyaW5hcmlvLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/MascotasFelices/MascotaFeliz/PracticaVeterinaria.App.Presentacion/Pages/Pages_Veterinario/EditVeterinario.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUGFnZXNfVmV0ZXJpbmFyaW9cRWRpdFZldGVyaW5hcmlvLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/MascotasFelices/MascotaFeliz/PracticaVeterinaria.App.Presentacion/Pages/Pages_Veterinario/ListVeterinario.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUGFnZXNfVmV0ZXJpbmFyaW9cTGlzdFZldGVyaW5hcmlvLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/MascotasFelices/MascotaFeliz/PracticaVeterinaria.App.Presentacion/Pages/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpdmFjeS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/MascotasFelices/MascotaFeliz/PracticaVeterinaria.App.Presentacion/Pages/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/MascotasFelices/MascotaFeliz/PracticaVeterinaria.App.Presentacion/Pages/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/MascotasFelices/MascotaFeliz/PracticaVeterinaria.App.Presentacion/Pages/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/MascotasFelices/MascotaFeliz/PracticaVeterinaria.App.Presentacion/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 

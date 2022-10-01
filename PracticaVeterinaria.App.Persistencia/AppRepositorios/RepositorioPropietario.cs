@@ -49,7 +49,7 @@ namespace PracticaVeterinaria.App.Persistencia.AppRepositorios
             {
                 propietarioActualizar.id = propietario.id;
                 propietarioActualizar.nombres = propietario.nombres;
-                 propietarioActualizar.apellidos = propietario.apellidos;
+                propietarioActualizar.apellidos = propietario.apellidos;
                 propietarioActualizar.telefono = propietario.telefono;
                 propietarioActualizar.cedula = propietario.cedula;
                 propietarioActualizar.direccion = propietario.direccion;

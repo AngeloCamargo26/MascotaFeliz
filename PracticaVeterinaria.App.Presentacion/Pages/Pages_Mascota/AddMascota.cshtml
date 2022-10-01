@@ -1,0 +1,45 @@
+﻿@page
+@model PracticaVeterinaria.App.Presentacion.Pages.AddMascota
+@{
+}
+<h1>Crear Mascota</h1>
+<div class="row">
+    <div class="col-md-4">
+        <form method="post">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="NuevaMascota.nombre" class="control-label"></label>
+                <input asp-for="NuevaMascota.nombre" class="form-control" />
+                <span asp-validation-for="NuevaMascota.nombre" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="NuevaMascota.color" class="control-label"></label>
+                <input asp-for="NuevaMascota.color" class="form-control" />
+                <span asp-validation-for="NuevaMascota.color" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="NuevaMascota.especie" class="control-label"></label>
+                <input asp-for="NuevaMascota.especie" class="form-control" />
+                <span asp-validation-for="NuevaMascota.especie" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="NuevaMascota.raza" class="control-label"></label>
+                <input asp-for="NuevaMascota.raza" class="form-control" />
+                <span asp-validation-for="NuevaMascota.raza" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="NuevaMascota.edad" class="control-label"></label>
+                <input asp-for="NuevaMascota.edad" class="form-control" />
+                <span asp-validation-for="NuevaMascota.edad" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="NuevaMascota.estadoSalud" class="control-label"></label>
+                <input asp-for="NuevaMascota.estadoSalud" class="form-control" />
+                <span asp-validation-for="NuevaMascota.estadoSalud" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Crear" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>

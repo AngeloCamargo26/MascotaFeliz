@@ -2025,19 +2025,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\USUARIO\\.nuget\\packages\\": {}
+    "C:\\Users\\Angelo\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\USUARIO\\Downloads\\MascotasFelices\\PracticaVeterinaria_Ciclo3\\PracticaVeterinaria.App.Persistencia\\PracticaVeterinaria.App.Persistencia.csproj",
+      "projectUniqueName": "D:\\MascotasFelices\\MascotaFeliz\\PracticaVeterinaria.App.Persistencia\\PracticaVeterinaria.App.Persistencia.csproj",
       "projectName": "PracticaVeterinaria.App.Persistencia",
-      "projectPath": "C:\\Users\\USUARIO\\Downloads\\MascotasFelices\\PracticaVeterinaria_Ciclo3\\PracticaVeterinaria.App.Persistencia\\PracticaVeterinaria.App.Persistencia.csproj",
-      "packagesPath": "C:\\Users\\USUARIO\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\USUARIO\\Downloads\\MascotasFelices\\PracticaVeterinaria_Ciclo3\\PracticaVeterinaria.App.Persistencia\\obj\\",
+      "projectPath": "D:\\MascotasFelices\\MascotaFeliz\\PracticaVeterinaria.App.Persistencia\\PracticaVeterinaria.App.Persistencia.csproj",
+      "packagesPath": "C:\\Users\\Angelo\\.nuget\\packages\\",
+      "outputPath": "D:\\MascotasFelices\\MascotaFeliz\\PracticaVeterinaria.App.Persistencia\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\USUARIO\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\Angelo\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
@@ -2049,8 +2049,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\USUARIO\\Downloads\\MascotasFelices\\PracticaVeterinaria_Ciclo3\\PracticaVeterinaria.App.Dominio\\PracticaVeterinaria.App.Dominio.csproj": {
-              "projectPath": "C:\\Users\\USUARIO\\Downloads\\MascotasFelices\\PracticaVeterinaria_Ciclo3\\PracticaVeterinaria.App.Dominio\\PracticaVeterinaria.App.Dominio.csproj"
+            "D:\\MascotasFelices\\MascotaFeliz\\PracticaVeterinaria.App.Dominio\\PracticaVeterinaria.App.Dominio.csproj": {
+              "projectPath": "D:\\MascotasFelices\\MascotaFeliz\\PracticaVeterinaria.App.Dominio\\PracticaVeterinaria.App.Dominio.csproj"
             }
           }
         }
@@ -2102,7 +2102,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
       }
     }
   }

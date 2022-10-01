@@ -27,11 +27,15 @@ namespace PracticaVeterinaria.App.Presentacion
             //Agregar RazorPages
             services.AddRazorPages();
 
-             //Asociamos los repositorios a la capa de presentación para el uso del servicio DbContext.        
-            //services.AddScoped<IRepositorioPropietario, RepositorioPropietario>();
+            //Asociamos los repositorios a la capa de presentación para el uso del servicio DbContext.  
+            services.AddScoped<IRepositorioHistoriasClinicas, RepositorioHistoriasClinicas>();
+            services.AddScoped<IRepositorioMascota, RepositorioMascota>();
+            services.AddScoped<IRepositorioPropietario, RepositorioPropietario>();
+            services.AddScoped<IRepositorioVeterinario, RepositorioVeterinario>();
+            services.AddScoped<IRepositorioVisita, RepositorioVisita>();
+
             //AppContext
-            //services.AddSingleton<PracticaVeterinaria.App.Persistencia.AppRepositorios.AppContext>();
-            //services.AddSingleton<IRepositorioPropietario, RepositorioPropietario>();
+            services.AddSingleton<PracticaVeterinaria.App.Persistencia.AppRepositorios.AppContext>();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.

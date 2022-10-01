@@ -2,7 +2,7 @@ using Microsoft.EntityFrameworkCore;
 using PracticaVeterinaria.App.Dominio;
 
 //Antes de la migración
-namespace PracticaVeterinaria.App.Persistencia
+namespace PracticaVeterinaria.App.Persistencia.AppRepositorios
 
 //Para trabajar después de migración con conexión a Front-end
 //namespace PracticaVeterinaria.App.Persistencia.AppRepositorios

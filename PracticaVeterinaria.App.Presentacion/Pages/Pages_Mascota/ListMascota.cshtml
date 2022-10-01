@@ -1,0 +1,48 @@
+﻿@page
+@model PracticaVeterinaria.App.Presentacion.Pages.ListMascota
+@{
+}
+<h1>Lista de Propietarios!</h1>
+<table class="table">
+    <thead>
+        <tr>
+            <th scope="col">Id</th>
+            <th scope="col">Nombre</th>
+            <th scope="col">Color</th>
+            <th scope="col">Especie</th>
+            <th scope="col">Raza</th>
+            <th scope="col">Edad</th>
+            <th scope="col">Estado de Salud</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var Mascota in Model.mascotas)
+        {
+            <tr scope="row">
+                <td>@Mascota.id</td>
+                <td>@Mascota.nombre</td>
+                <td>@Mascota.color</td>
+                <td>@Mascota.especie</td>
+                <td>@Mascota.raza</td>
+                <td>@Mascota.edad</td>
+                <td>@Mascota.estadoSalud</td>
+
+                <td>
+                    <a asp-page="./EditMascota" asp-route-id="@Mascota.id">Editar</a> |
+                    <a asp-page="./DeleteMascota" asp-route-id="@Mascota.id">Delete</a> |
+
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+<div class="row">
+    <div class="col-md-4">
+        <form method="get" action="./AddMascota">
+            <div class="form-group">
+                <input type="submit" value="Crear" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>

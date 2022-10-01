@@ -10,3 +10,15 @@ C:\Users\USUARIO\Downloads\MascotasFelices\PracticaVeterinaria_Ciclo3\PracticaVe
 C:\Users\USUARIO\Downloads\MascotasFelices\PracticaVeterinaria_Ciclo3\PracticaVeterinaria.App.Dominio\obj\Debug\net6.0\refint\PracticaVeterinaria.App.Dominio.dll
 C:\Users\USUARIO\Downloads\MascotasFelices\PracticaVeterinaria_Ciclo3\PracticaVeterinaria.App.Dominio\obj\Debug\net6.0\PracticaVeterinaria.App.Dominio.pdb
 C:\Users\USUARIO\Downloads\MascotasFelices\PracticaVeterinaria_Ciclo3\PracticaVeterinaria.App.Dominio\obj\Debug\net6.0\ref\PracticaVeterinaria.App.Dominio.dll
+D:\MascotasFelices\MascotaFeliz\PracticaVeterinaria.App.Dominio\bin\Debug\net6.0\PracticaVeterinaria.App.Dominio.deps.json
+D:\MascotasFelices\MascotaFeliz\PracticaVeterinaria.App.Dominio\bin\Debug\net6.0\PracticaVeterinaria.App.Dominio.dll
+D:\MascotasFelices\MascotaFeliz\PracticaVeterinaria.App.Dominio\bin\Debug\net6.0\PracticaVeterinaria.App.Dominio.pdb
+D:\MascotasFelices\MascotaFeliz\PracticaVeterinaria.App.Dominio\obj\Debug\net6.0\PracticaVeterinaria.App.Dominio.csproj.AssemblyReference.cache
+D:\MascotasFelices\MascotaFeliz\PracticaVeterinaria.App.Dominio\obj\Debug\net6.0\PracticaVeterinaria.App.Dominio.GeneratedMSBuildEditorConfig.editorconfig
+D:\MascotasFelices\MascotaFeliz\PracticaVeterinaria.App.Dominio\obj\Debug\net6.0\PracticaVeterinaria.App.Dominio.AssemblyInfoInputs.cache
+D:\MascotasFelices\MascotaFeliz\PracticaVeterinaria.App.Dominio\obj\Debug\net6.0\PracticaVeterinaria.App.Dominio.AssemblyInfo.cs
+D:\MascotasFelices\MascotaFeliz\PracticaVeterinaria.App.Dominio\obj\Debug\net6.0\PracticaVeterinaria.App.Dominio.csproj.CoreCompileInputs.cache
+D:\MascotasFelices\MascotaFeliz\PracticaVeterinaria.App.Dominio\obj\Debug\net6.0\PracticaVeterinaria.App.Dominio.dll
+D:\MascotasFelices\MascotaFeliz\PracticaVeterinaria.App.Dominio\obj\Debug\net6.0\refint\PracticaVeterinaria.App.Dominio.dll
+D:\MascotasFelices\MascotaFeliz\PracticaVeterinaria.App.Dominio\obj\Debug\net6.0\PracticaVeterinaria.App.Dominio.pdb
+D:\MascotasFelices\MascotaFeliz\PracticaVeterinaria.App.Dominio\obj\Debug\net6.0\ref\PracticaVeterinaria.App.Dominio.dll

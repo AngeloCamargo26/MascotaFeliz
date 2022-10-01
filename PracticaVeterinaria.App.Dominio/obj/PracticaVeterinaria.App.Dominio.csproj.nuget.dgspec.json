@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\USUARIO\\Downloads\\MascotasFelices\\PracticaVeterinaria_Ciclo3\\PracticaVeterinaria.App.Dominio\\PracticaVeterinaria.App.Dominio.csproj": {}
+    "D:\\MascotasFelices\\MascotaFeliz\\PracticaVeterinaria.App.Dominio\\PracticaVeterinaria.App.Dominio.csproj": {}
   },
   "projects": {
-    "C:\\Users\\USUARIO\\Downloads\\MascotasFelices\\PracticaVeterinaria_Ciclo3\\PracticaVeterinaria.App.Dominio\\PracticaVeterinaria.App.Dominio.csproj": {
+    "D:\\MascotasFelices\\MascotaFeliz\\PracticaVeterinaria.App.Dominio\\PracticaVeterinaria.App.Dominio.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\USUARIO\\Downloads\\MascotasFelices\\PracticaVeterinaria_Ciclo3\\PracticaVeterinaria.App.Dominio\\PracticaVeterinaria.App.Dominio.csproj",
+        "projectUniqueName": "D:\\MascotasFelices\\MascotaFeliz\\PracticaVeterinaria.App.Dominio\\PracticaVeterinaria.App.Dominio.csproj",
         "projectName": "PracticaVeterinaria.App.Dominio",
-        "projectPath": "C:\\Users\\USUARIO\\Downloads\\MascotasFelices\\PracticaVeterinaria_Ciclo3\\PracticaVeterinaria.App.Dominio\\PracticaVeterinaria.App.Dominio.csproj",
-        "packagesPath": "C:\\Users\\USUARIO\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\USUARIO\\Downloads\\MascotasFelices\\PracticaVeterinaria_Ciclo3\\PracticaVeterinaria.App.Dominio\\obj\\",
+        "projectPath": "D:\\MascotasFelices\\MascotaFeliz\\PracticaVeterinaria.App.Dominio\\PracticaVeterinaria.App.Dominio.csproj",
+        "packagesPath": "C:\\Users\\Angelo\\.nuget\\packages\\",
+        "outputPath": "D:\\MascotasFelices\\MascotaFeliz\\PracticaVeterinaria.App.Dominio\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\USUARIO\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Angelo\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
@@ -53,7 +53,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     }

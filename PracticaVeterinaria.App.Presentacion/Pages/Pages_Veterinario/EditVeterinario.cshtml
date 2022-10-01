@@ -1,0 +1,39 @@
+﻿@page "{id:int?}"
+@model PracticaVeterinaria.App.Presentacion.Pages.EditVeterinario
+@{
+}
+<h1>Editar Propietario</h1>
+<div class="row">
+    <div class="col-md-4">
+        <form method="post">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <input type="hidden" asp-for="VeterinarioActual.id" class="form-control" />
+            </div>
+            <div class="form-group">
+                <label asp-for="VeterinarioActual.tarjetaProfesional" class="control-label"></label>
+                <input asp-for="VeterinarioActual.tarjetaProfesional" class="form-control" />
+                <span asp-validation-for="VeterinarioActual.tarjetaProfesional" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="VeterinarioActual.nombres" class="control-label"></label>
+                <input asp-for="VeterinarioActual.nombres" class="form-control" />
+                <span asp-validation-for="VeterinarioActual.nombres" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="VeterinarioActual.apellidos" class="control-label"></label>
+                <input asp-for="VeterinarioActual.apellidos" class="form-control" />
+                <span asp-validation-for="VeterinarioActual.apellidos" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="VeterinarioActual.telefono" class="control-label"></label>
+                <input asp-for="VeterinarioActual.telefono" class="form-control" />
+                <span asp-validation-for="VeterinarioActual.telefono" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Actualizar" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
